@@ -1,0 +1,15 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter autosaves
+.ipynb_checkpoints/
